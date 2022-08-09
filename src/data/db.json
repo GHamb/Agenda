@@ -1,0 +1,26 @@
+{
+  "contatos": [
+    {
+      "firstName": "Fernando",
+      "lastName": "Caetano",
+      "phone": "11 98766-2213",
+      "address": {
+        "cep": "13218300",
+        "logradouro": "Avenida Yolanda Ferreira Breda",
+        "localidade": "Jundiaí"
+      },
+      "id": 1
+    },
+    {
+      "firstName": "Gustavo",
+      "lastName": "Hamburg",
+      "phone": "55 11 9976-71282",
+      "address": {
+        "cep": "13218-300",
+        "logradouro": "Avenida Yolanda Ferreira Breda",
+        "localidade": "Jundiaí"
+      },
+      "id": 2
+    }
+  ]
+}
