@@ -10,6 +10,17 @@
         "localidade": "Jundiaí"
       },
       "id": 1
+    },
+    {
+      "firstName": "Alan",
+      "lastName": "Caetano",
+      "phone": "11 91224-1234",
+      "address": {
+        "cep": "13214000",
+        "logradouro": "Avenida Natalino Geraldo Ruocco",
+        "localidade": "Jundiaí"
+      },
+      "id": 2
     }
   ]
 }

@@ -29,8 +29,8 @@ export default function ListContact() {
             getAllContact();
         } else {
             var search = contacts.filter((contact) =>
-                contact.firstName.toLowerCase().includes(params) ||
-                contact.lastName.toLowerCase().includes(params) ||
+                contact.firstName.toLowerCase().includes(params.toLowerCase()) ||
+                contact.lastName.toLowerCase().includes(params.toLowerCase()) ||
                 contact.phone.includes(params)
             );
             setContact(search);
